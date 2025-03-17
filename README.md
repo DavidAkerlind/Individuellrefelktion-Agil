@@ -42,42 +42,48 @@ Applikationen har också en "Om oss"-sida där kunder kan läsa om kedjans histo
 
 #### Vilka var de största utmaningarna för dig?  
 
-En av de största utmaningarna för mig var att balansera min roll som scrum-master med att också aktivt bidra till kodningen. Eftersom jag hade ansvar för att hålla teamet organiserat och fokuserat, kunde det ibland vara svårt att hinna med att själv skriva kod i den utsträckning jag hade velat.  
-
-En annan stor utmaning var att hantera merge-konflikter i Git, särskilt när flera personer arbetade med samma delar av koden. Det krävde noggrann kommunikation och samordning för att undvika problem.  
+(insert answer here...)  
 
 #### Hur löste eller hanterade du dessa utmaningar?  
 
-För att hantera balansen mellan scrum-master-rollen och mitt kodande försökte jag effektivisera våra dagliga stand-ups och sprintmöten så att jag kunde lägga mer tid på själva utvecklingen. Jag såg också till att delegera uppgifter och uppmuntrade teammedlemmarna att ta mer initiativ själva.  
-
-När det gällde merge-konflikterna i Git såg jag till att vi hade tydliga branch-strategier och att vi ofta pushade och pullade för att hålla våra lokala versioner uppdaterade. Vi använde även parprogrammering vid vissa tillfällen för att snabbare lösa konflikter.  
+(insert answer here...)  
 
 #### Vilka kompromisser inom teamet har du fått göra under projektets gång?  
 
-En kompromiss vi fick göra var att prioritera vissa funktioner över andra. Från början hade vi stora ambitioner om vad vi ville hinna med, men vi insåg att vissa funktioner inte var kritiska för MVP-versionen av applikationen.  
-
-En annan kompromiss var kodstil och struktur. Vi hade ibland olika åsikter om hur vissa funktioner borde implementeras, och i vissa fall fick vi välja en lösning som kanske inte var min personliga favorit, men som fungerade bra för teamet som helhet.  
+(insert answer here...)  
 
 ### Individuell reflektion och utvärdering  
 
 #### Vad lärde du dig under projektets gång?  
 
-Jag lärde mig mycket om **agil metodik i praktiken**, särskilt hur man använder Scrum i ett team. Jag fick även värdefull erfarenhet av att hantera **Git i grupp**, vilket var utmanande men också lärorikt.  
-
-En annan viktig insikt var hur avgörande **kommunikation och tydlighet** är i ett projekt. Att ha regelbundna möten och tydliga ansvarsområden gjorde en stor skillnad.  
+(insert answer here...)  
 
 #### Finns det någonting du skulle velat göra annorlunda om du fick chansen igen?  
 
-Jag skulle ha lagt ännu mer tid på att dokumentera vår kod och processer. I vissa fall blev det oklart varför vissa beslut togs, och det hade varit bra att ha mer detaljerade anteckningar.  
-
-Jag skulle också ha försökt att introducera kodgranskning tidigare, så att vi snabbare kunde upptäcka och åtgärda problem i koden.  
+(insert answer here...)  
 
 #### Vilka möjligheter ser du med de kunskaper du fått under arbetet med projektet?  
 
-De kunskaper jag fått under detta projekt är direkt applicerbara i framtida utvecklingsprojekt. Jag har fått bättre förståelse för hur **agila arbetssätt** fungerar i praktiken och hur jag kan **leda ett team** genom ett projekt.  
+(insert answer here...)  
 
-Jag har även stärkt mina färdigheter inom **versionshantering med Git**, vilket är en nödvändig kompetens i alla utvecklingsjobb.  
+### VG-frågor (minst 200 tecken)  
 
----
+#### Beskriv minst tre fördelar med att arbeta agilt och motivera varför de är viktiga. Använd exempel från ert projekt för att styrka dina argument.  
 
-Det här är nu en **utförlig och välstrukturerad reflektion** baserat på dina tidigare svar och vad som troligtvis kan passa ditt projekt. Är det något du vill att jag ska utveckla ytterligare? 😊  
+(insert answer here...)  
+
+#### Beskriv en konkret lösning du föreslagit under projektet. Varför ansåg du att den var bäst? Jämför med minst en annan möjlig lösning och förklara varför du inte valde den.  
+
+(insert answer here...)  
+
+#### Ge minst två exempel på lösningar ni valde bort. Analysera varför ni avstod från dem. Hur påverkade det projektet? Kunde något ha gjorts annorlunda?  
+
+(insert answer here...)  
+
+#### Reflektera kring hur den kod du bidragit med skulle kunna förbättras, ge konkreta exempel.  
+
+(insert answer here...)  
+
+#### Om ni hade en vecka till på er, vad skulle du ändrat? Fokusera på arbetsprocessen, samarbetet eller verktygen ni använde. Hur skulle det ha påverkat resultatet?  
+
+(insert answer here...)  
