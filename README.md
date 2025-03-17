@@ -1,6 +1,6 @@
-# Individuella reflektioner
+# Min indiviiduella reflektion
 
-Svara på var och en av frågorna nedan individuellt (minst 100 tecken per fråga)
+**Länk** till det gemensamma projektrepot [här](https://github.com/Welene/kanban-commandos).
 
 ## Frågor
 
