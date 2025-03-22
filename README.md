@@ -3,6 +3,7 @@
 ## Länk  
 
 **Länk** till det gemensamma projektrepot [här](https://github.com/Welene/kanban-commandos).  
+https://github.com/Welene/kanban-commandos
 
 ## Frågor  
 
